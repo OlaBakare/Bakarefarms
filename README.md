@@ -1,12 +1,12 @@
 # Bakare Farm Poultry Website
 
-A simple static website for Bakare Farm showcasing poultry products, services, and contact details.
+A modern static website for Bakare Farm showcasing poultry products, services, and contact details.
 
 ## Files
 
-- `index.html` — main landing page
-- `styles.css` — responsive styling
-- `script.js` — mobile navigation and contact form interaction
+- `index.html` - main landing page
+- `styles.css` - responsive styling
+- `script.js` - mobile navigation and contact form interaction
 
 ## Usage
 
